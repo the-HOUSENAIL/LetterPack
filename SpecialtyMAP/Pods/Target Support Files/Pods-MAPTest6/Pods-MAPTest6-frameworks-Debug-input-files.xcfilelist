@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-MAPTest6/Pods-MAPTest6-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Cosmos/Cosmos.framework
+${BUILT_PRODUCTS_DIR}/FloatingPanel/FloatingPanel.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework

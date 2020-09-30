@@ -1,0 +1,30 @@
+PODS:
+  - Cosmos (22.1.0)
+  - FloatingPanel (1.7.5)
+  - Realm (5.3.6):
+    - Realm/Headers (= 5.3.6)
+  - Realm/Headers (5.3.6)
+  - RealmSwift (5.3.6):
+    - Realm (= 5.3.6)
+
+DEPENDENCIES:
+  - Cosmos
+  - FloatingPanel
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - FloatingPanel
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Cosmos: 2795b36ad4bbea1af3050d6d65576ed63875f86a
+  FloatingPanel: bb17fd6fc7ae519f877f7bd30f4f6115a78acf07
+  Realm: cd400dd7e5b5bb5c8ae9842eecd73792369e6ec0
+  RealmSwift: 99a16dbdee5d6dfb3d91d56088a9f8c15c0871d1
+
+PODFILE CHECKSUM: 46f9314105bce1659d81e63c3eb5d735bbc1675e
+
+COCOAPODS: 1.9.3
